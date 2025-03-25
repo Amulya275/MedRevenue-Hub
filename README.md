@@ -2,9 +2,11 @@
 
 ## End-to-End Healthcare Revenue Cycle Management Solution- Data Pipeline Implementation
 
-## Tech Stack:
+### Tech Stack:
 
-Azure Data Factory | Azure Databricks | SQL | Azure Data Lake Storage (ADLS) | Azure Key Vault | Delta Lake
+Azure Data Factory | Azure Databricks | Azure SQL Database | Azure Data Lake Storage (ADLS) | Azure Key Vault | Delta Lake | PySpark | SQL
+
+### Overview:
 
 In MedRevenue Hub project, I designed and implemented a scalable and high-performance data pipeline leveraging Azure Data Factory (ADF) and Azure Databricks to enhance operational efficiency and financial oversight. The solution utilized Delta Lake for optimized data storage, ensuring ACID-compliant transactions and efficient data processing, which enabled real-time insights into key financial metrics, including billing, claims processing, and patient financial data.
 
