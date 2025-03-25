@@ -1,8 +1,8 @@
 # MedRevenue-Hub
 
-##End-to-End Healthcare Revenue Cycle Management Solution- Data Pipeline Implementation
+## End-to-End Healthcare Revenue Cycle Management Solution- Data Pipeline Implementation
 
-##Tech Stack:
+## Tech Stack:
 
 Azure Data Factory | Azure Databricks | SQL | Azure Data Lake Storage (ADLS) | Azure Key Vault | Delta Lake
 
